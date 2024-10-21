@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Automatic tracking System(ATS)**
 
-- 🌱 I’m currently learning **Angylar**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **Javascripts,React**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ayman Khan.</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working on **Automatic tracking System(ATS)**.
+- 🔭 I’m currently working on **Automatic tracking System(ATS)**
 
 - 🌱 I’m currently learning **Angular**.
 

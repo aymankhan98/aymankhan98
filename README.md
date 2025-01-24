@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ayman Khan.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<h3 align="center">Forever a student, I've dedicated myself to continuous learning.
-</h3>
+
 
 - 🔭 I’m currently working on **Automatic tracking System(ATS)**
 
-- 🌱 I’m currently learning **Angular**.
+- 🌱 Forever a student, I've dedicated myself to continuous learning.
 
 - 💬 Ask me about **Javascripts,React**.
 

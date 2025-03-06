@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 
-- 🔭 I’m currently working on **Automatic tracking System(ATS)**
+- 🔭 I’m currently working on **Automatic tracking System(ATS).**
 
 - 🌱 Forever a student, I've dedicated myself to continuous learning.
 

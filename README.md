@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Automatic tracking System(ATS).**
 
-- 🌱 Forever a student, I've dedicated myself to continuous learning
+- 🌱 Forever a student, I've dedicated myself to continuous learning.
 
 - 💬 Ask me about **Javascripts,React**.
 

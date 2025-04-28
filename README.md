@@ -6,7 +6,7 @@
 
 - 🌱 Forever a student, I've dedicated myself to continuous learning.
 
-- 💬 Ask me about **Javascripts,React**.
+- 💬 Ask me about **Javascripts,React**
 
 - 📫 How to reach me **khanayman080@gmail.com**.
 
